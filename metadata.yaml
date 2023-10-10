@@ -1,11 +1,16 @@
 _repo: Brown-leaves-and-other-verses_71665
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71665-h/images/cover.jpg
 creator:
   author:
     agent_name: Harris, Ella Stevens
     gutenberg_agent_id: '56319'
     url: http://www.gutenberg.org/2009/agents/56319
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71665#Brown-leaves-and-other-verses
 gutenberg_issued: '2023-09-16'
 identifiers:
   gutenberg: '71665'
